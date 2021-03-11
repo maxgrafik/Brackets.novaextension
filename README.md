@@ -2,8 +2,8 @@
 
 Theme based on [Brackets](http://brackets.io) code editor
 
-![screenshot-dark](./Images/readme/nova-brackets-dark.png)
-![screenshot-light](./Images/readme/nova-brackets-light.png)
+![screenshot-dark](https://raw.githubusercontent.com/maxgrafik/Brackets.novaextension/main/Images/readme/nova-brackets-dark.png)
+![screenshot-light](https://raw.githubusercontent.com/maxgrafik/Brackets.novaextension/main/Images/readme/nova-brackets-light.png)
 
 ## Disclaimer
 
