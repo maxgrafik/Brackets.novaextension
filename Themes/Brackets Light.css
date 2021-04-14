@@ -164,7 +164,8 @@ value.symbol {
 string {
     color: #e88501;
 }
-string.key {
+string.key,
+key.name {
     color: #8757ad;
 }
 string-template {
@@ -196,9 +197,12 @@ identifier.type.union {}
 identifier.type.struct {}
 
 identifier.global,
-identifier.variable,
-identifier.constant {
+identifier.variable {
     color: #535353;
+}
+identifier.name,
+identifier.constant {
+    color: #8757ad;
 }
 identifier.property,
 identifier.decorator,
