@@ -1,3 +1,8 @@
+## Version 1.4
+
+Fixed some markdown styles
+
+
 ## Version 1.3
 
 Bug fixes
