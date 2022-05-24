@@ -181,7 +181,7 @@ regex.escaped {
     color: #e88501;
 }
 cdata {
-    color: #d33682;
+    color: #e88501;
 }
 
 /* Identifiers */
@@ -197,11 +197,11 @@ identifier.type.union {}
 identifier.type.struct {}
 
 identifier.global,
-identifier.variable {
+identifier.variable,
+identifier.constant {
     color: #535353;
 }
-identifier.name,
-identifier.constant {
+identifier.name {
     color: #8757ad;
 }
 identifier.property,
@@ -283,11 +283,11 @@ style.value.identifier.function {
 
 /* Markup */
 markup.heading {
-    color: #000;
+    color: #d33682;
     font-weight: bold;
 }
 markup.line {
-    color: #ccc;
+    color: #e88501;
 }
 markup.bold {
     color: #000;
@@ -302,8 +302,8 @@ markup.strikethrough {
 markup.list.item {
 }
 markup.code {
-    background-color: rgba(0, 0, 0, 0.05);
+    color: #949494;
 }
 markup.link {
-    color: #446fbd;
+    color: #8757ad;
 }
