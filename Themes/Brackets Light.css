@@ -188,13 +188,13 @@ cdata {
 identifier.type {
     color: #535353;
 }
-identifier.type.class {
+identifier.type.class,
+identifier.type.protocol,
+identifier.type.enum,
+identifier.type.union,
+identifier.type.struct {
     color: #8757ad;
 }
-identifier.type.protocol {}
-identifier.type.enum {}
-identifier.type.union {}
-identifier.type.struct {}
 
 identifier.global,
 identifier.variable,
