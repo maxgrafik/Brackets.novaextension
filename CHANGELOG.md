@@ -1,3 +1,8 @@
+## Version 1.7
+
+Updated stylesheets for **GitHub Markdown style**
+
+
 ## Version 1.6
 
 Included stylesheets for **GitHub Markdown style** from [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css). Can be selected in Nova settings (Workspace → Markdown Stylesheet).
